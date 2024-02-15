@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 - For requirement dependency 
 - npm install
-  ![image](https://github.com/Kartikkumar123/Weather-Application-React/assets/138274869/f71472ee-49e7-4ed8-ac25-872179fd4602)
+![image](https://github.com/Kartikkumar123/Weather-Application-React/assets/138274869/315826a0-e277-4c84-815f-1fbd06dff9ae)
